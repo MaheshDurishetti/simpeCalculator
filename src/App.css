@@ -1,0 +1,35 @@
+.container{
+     /* display: flex;
+    justify-content: center;
+    align-items: center;  */
+    place-items: center;
+    /* flex-direction: column; */
+    margin-top: 30vh;
+    
+  
+      
+}
+.output{
+    width: 56vh;
+    height: 60px;
+    color: white;
+      border: none;
+background-color: black;
+font-size:large ;
+}
+button{
+    width: 76.4px;
+    height: 60px;
+    flood-color: aqua; 
+    border: 1px solid black;
+    border-top:none ;
+    border-left:none ;
+    font-size: larger;
+}
+.operator{
+border-right: none; 
+background-color: orange; 
+}
+/* .btn:hover{
+    transform: rotate(10deg);
+} */
